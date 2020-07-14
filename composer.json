@@ -1,0 +1,16 @@
+{
+    "name": "atha/movie-app",
+    "description": "Just a simple movie app",
+    "keywords": ["javascript", "json", "php"],
+    "license": "None",
+    "authors": [
+        {
+            "name": "Atha Tsaqif",
+            "email": "atha.3417@gmail.com",
+            "homepage": "http://example.com/"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0"
+    }
+}
